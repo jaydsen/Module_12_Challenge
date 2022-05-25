@@ -17,20 +17,16 @@ The purpose of this analysis is to use a logistic regression model to compare tw
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
-  * Description of Model 1
-
-Accuracy = 0.9520479254722232
-Precision = 0.85
-Recall scores = 0.91
+  * Accuracy = 0.9520479254722232
+  * Precision = 0.85
+  * Recall scores = 0.91
 
 
 
 * Machine Learning Model 2:
-  * Description of Model 2
-
-Accuracy = 0.9936781215845847
-Precision = 0.84
-Recall scores = 0.99
+  * Accuracy = 0.9936781215845847
+  * Precision = 0.84
+  * Recall scores = 0.99
 
 ## Summary
 
