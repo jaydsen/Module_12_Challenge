@@ -18,21 +18,24 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 * Machine Learning Model 1:
   * Description of Model 1
-  Accuracy = 0.9520479254722232
-  Precision = 0.85
-  Recall scores = 0.91
+
+Accuracy = 0.9520479254722232
+Precision = 0.85
+Recall scores = 0.91
 
 
 
 * Machine Learning Model 2:
   * Description of Model 2
-  Accuracy = 0.9936781215845847
-  Precision = 0.84
-  Recall scores = 0.99
+
+Accuracy = 0.9936781215845847
+Precision = 0.84
+Recall scores = 0.99
 
 ## Summary
 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
 * Which one seems to perform best? How do you know it performs best?
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
+
 In terms of performance, Model 1 seems to perform the best since it has a precision score of 0.85. However, Model 2 has a precision of 0.84 which is marginally less than that of Model 1. Thus, for all intents and purposes, both models perform similarly. However, the more important metrics are Accuracy and Recall Scores. For that reason, Model 2 is the better model overall. It has higher accuracy and recall scores which demonstrate that the Model 2 was correct more often than Model 1.
